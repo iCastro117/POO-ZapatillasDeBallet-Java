@@ -1,5 +1,5 @@
 /**
- * Clase Animal
+ * Clase ZapatosDeBallet
  */
 public class ZapatosDeBallet {
     /**
